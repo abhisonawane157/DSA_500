@@ -1,0 +1,44 @@
+A. onboarding declaration
+B. Set up master setup page
+- Provide PAN and AAdhar
+- PRAN for NPS
+- Bank Details(Doesnt matter 
+salary or savings)
+- SUbmit
+
+C. Nomination forms
+PF ,Gratuity, Other Benefits
+pf number will be accenture pf number
+
+D. Compensation plan
+must for salary prcoessing.
+Two windows available between
+1st and 17th.
+
+  types of CPlans-
+ FIxed and flexi.
+ we need fixed because of 
+job level being 12.
+
+FOr new joiners ,the page opens
+from 1st to 17th every month.
+
+Download option is there for 
+guidelines of CPlan.
+
+Basic Salary-35% of fixed pay
+(already filled)
+HRA-(50% of basic salary)
+Provident FUnd(Y-12 % of basic salary
+F- 1800 rs / month
+N- none pf)
+National Pension System.
+
+
+TO geberate PRAN, go to FAQ And NPS
+Can write PRAN conversion in DIPA
+
+
+MYTE-
+put charge code provided.
+
